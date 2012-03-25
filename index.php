@@ -27,6 +27,8 @@
 		p {
 			font-family: Verdana, sans-serif;
 			font-size: 12px;
+			position: relative;
+			bottom: 14px;
 		}
 		#desc {
 			position: fixed;
