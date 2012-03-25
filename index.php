@@ -24,18 +24,28 @@
 			width: 100%;
 			height: 100%;
 		}
-		hr {
-			width: 100%;
-			
+		p {
+			font-family: Verdana, sans-serif;
+			font-size: 12px;
 		}
-		div.addthis_toolbox {
+		#desc {
 			position: fixed;
 			height: 40px;
+			width: 100%;
+		}
+		div.addthis_toolbox {
+			width: 350px;
+			height: 40px;
+			float: left;
+			display: block;
+		}
+		div.addthis_toolbox > a {
+			width: 80px;
 		}
 	</style>
 	</head>
 	<body>
-		<div id="">
+		<div id="desc">
 			<!-- AddThis Button BEGIN -->
 			<div class="addthis_toolbox addthis_default_style ">
 				<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
