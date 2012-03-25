@@ -6,7 +6,7 @@
 	<meta property="og:title" content="Crack the Code - Super spy game" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="http://crackthecode.cloudcontrolled.com" />
-	<meta property="og:image" content="http://crackthecode.cloudcontrolled.com/fb_image.png" />
+	<meta property="og:image" content="http://crackthecode.cloudcontrolled.com/fb_share.png" />
 	<meta property="og:description" content="A little game I made at 15 for my GCSE ICT project. Complete 3 challenges and collect the code to the safe. Can you crack the code." />
 	
 	<meta property="title" content="Crack the Code - Super spy game" />
